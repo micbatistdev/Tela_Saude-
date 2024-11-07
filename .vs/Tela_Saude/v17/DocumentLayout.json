@@ -4,9 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{CE8F9BE9-82CE-4C72-BE85-E6ED13B65496}|..\\TELAS PRONTAS\\Tela_Cultivo\\Tela_Cultivo\\Tela_Cultivo\\Tela_Cultivo.csproj|c:\\users\\micha\\onedrive\\\u00E1rea de trabalho\\telas prontas\\tela_cultivo\\tela_cultivo\\tela_cultivo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5351D9E-69C2-4788-A373-ACBC7095A20A}|..\\TELAS PRONTAS\\Tela_Estoque\\TelaEstoque\\UrbanGreenProject\\TelaEstoque.csproj|c:\\users\\micha\\onedrive\\\u00E1rea de trabalho\\telas prontas\\tela_estoque\\telaestoque\\urbangreenproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,20 +13,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\micha\\OneDrive\\\u00C1rea de Trabalho\\TELAS PRONTAS\\Tela_Estoque\\TelaEstoque\\UrbanGreenProject\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\TELAS PRONTAS\\Tela_Estoque\\TelaEstoque\\UrbanGreenProject\\Form1.cs",
-              "ToolTip": "C:\\Users\\micha\\OneDrive\\\u00C1rea de Trabalho\\TELAS PRONTAS\\Tela_Estoque\\TelaEstoque\\UrbanGreenProject\\Form1.cs [Projeto]",
-              "RelativeToolTip": "..\\TELAS PRONTAS\\Tela_Estoque\\TelaEstoque\\UrbanGreenProject\\Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T22:25:20.194Z",
-              "EditorCaption": " [Projeto]"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
